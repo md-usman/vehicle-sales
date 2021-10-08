@@ -25,7 +25,7 @@
 	<h5>We buy and sell vehicles</h5>
 	<div class="description">
 		<p><strong>Description : </strong> This project is made as a part of completion<br> of the Internship at <a style="color:white" target="_blank" href="https://e-box.co.in/">Amphisoft (Ebox)</a>.</p>
-		<p>Link to repository : <a style="color:white" href="https://github.com/md-usman" target="_blank">Vehicles sales</a></p>
+		<p>Link to repository : <a style="color:white" href="https://github.com/md-usman/vehicle-sales" target="_blank">Vehicles sales</a></p>
 	</div>
 </div>
 
